@@ -1,4 +1,7 @@
-## Mango
+> [!NOTE]  
+> The Mango Engine is in very early development stages.
+
+# Mango
 `Mango` holds the repositories for the [Mango Engine](https://discord.gg/KRRybNJ5Cp/) and related projects.
 
 The [Mango Engine](https://discord.gg/KRRybNJ5Cp/) is a multiplayer and single-player server based game engine for built for developers and consumers. With a wide range of supported features available in your choice of language.
